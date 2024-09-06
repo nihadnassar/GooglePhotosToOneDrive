@@ -18,9 +18,10 @@ https://github.com/nihadnassar/GooglePhotosToOneDrive/blob/main/AccessToken.md
 <br>
 » Note down the access token & paste it in the google colab project when required
 <br><br>
-» Got to the below link & click open in colab. Click the play button in order & also follow the instruction stated in the colab
-<br><br>
+» Go to the below link & click open in colab. Click the play button in order & also follow the instruction stated in the colab<br><br>
 https://github.com/nihadnassar/GooglePhotosToOneDrive/blob/main/Google_Photos_to_Cloud.ipynb
+<br><br>
+
 <br>
 <br>
 <br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣀⢠⡤⠤⠖⠒⠒⠒⠲⣆⠀⠀⠀⠀⣾⠋⠉⠉⠛⢷⠀⣴⠖⠒⠤⣄⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
